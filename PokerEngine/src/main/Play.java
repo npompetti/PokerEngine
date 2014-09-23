@@ -186,16 +186,6 @@ public class Play {
 				
 			
 		
-		//Test for straight
-		/*
-			h1.HandCards.get(0).rank=13;
-			h1.HandCards.get(1).rank=5;
-			h1.HandCards.get(2).rank=4;
-			h1.HandCards.get(3).rank=3;
-			h1.HandCards.get(4).rank=2;
-			checkFlush(h1);
-			System.out.print(h1.Flush);
-		 */
 		
 
 
