@@ -1,7 +1,7 @@
 package main;
 
 public class Play {
-
+//
 	public static void checkFlush(Hand player){
 
 		//tally holds the number of same suits
